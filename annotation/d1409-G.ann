@@ -1,0 +1,19 @@
+T1	Person 76 90	retinoblastoma
+T2	Person 92 94	RB
+T3	Person 100 103	p53
+T4	Person 198 205	pathway
+T5	Person 209 215	cancer
+T6	Person 332 337	INK4a
+T7	Person 379 392	G1 to S phase
+T8	Person 470 475	human
+T9	Person 476 481	tumor
+T10	Person 566 569	p16
+T11	Person 570 576	kinase
+T12	Person 622 632	cell cycle
+T13	Person 653 663	G1/s phase
+T14	Person 675 685	cdk4 and 6
+T15	Person 702 717	phosphorylation
+T16	Person 751 754	E2F
+T17	Person 970 976	p14ART
+T18	Person 1070 1073	BAX
+T19	Person 1300 1308	G1 phase

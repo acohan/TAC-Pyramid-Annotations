@@ -1,0 +1,23 @@
+T1	Person 26 35	micro RNA
+T2	Person 38 43	miRNA
+T3	Person 127 139	human cancer
+T4	Person 279 294	cervical cancer
+T5	Person 430 442	HPV-infected
+T6	Person 558 572	down-regulated
+T7	Person 618 630	up-regulated
+T8	Person 580 587	miR-15b
+T9	Person 589 595	miR-16
+T10	Person 597 605	miR-146a
+T11	Person 610 617	miR-155
+T12	Person 518 525	miR-126
+T13	Person 527 534	miR-143
+T14	Person 536 543	miR-145
+T15	Person 743 750	miR-146
+T16	Person 1052 1061	oncogenic
+T17	Person 1134 1139	CaSki
+T18	Person 1125 1129	HeLa
+T19	Person 1224 1240	internal control
+T20	Person 1283 1287	CLIP
+T21	Person 1363 1371	miR-133b
+T22	Person 1618 1629	raft tissue
+T23	Person 1635 1657	pre-neoplastic lesions

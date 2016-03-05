@@ -1,0 +1,25 @@
+T1	Person 21 24	Raf
+T2	Person 25 28	Mek
+T3	Person 29 32	Erk
+T4	Person 44 50	kinase
+T5	Person 249 257	oncogene
+T6	Person 265 293	non-small celllung carcinoma
+T7	Person 295 300	NSCLC
+T8	Person 326 329	Erk
+T9	Person 330 336	kinase
+T10	Person 355 360	K-Ras
+T11	Person 431 437	Erk1/2
+T12	Person 454 471	tumor development
+T13	Person 489 498	lethality
+T14	Person 502 512	adult mice
+T15	Person 527 533	Mek1/2
+T17	Person 666 669	RAs
+T18	Person 734 739	A-Raf
+T19	Person 752 758	c-Raf.
+T20	Person 741 746	B-Raf
+T16	Person 1189 1201	mutant tumor
+T21	Person 1235 1253	anti-tumor effects
+T22	Person 1261 1271	inhibition
+T23	Person 1444 1458	adenocarcinoma
+T24	Person 1486 1495	tamoxifen
+T25	Person 1466 1482	treatment method

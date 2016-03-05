@@ -1,0 +1,18 @@
+T1	Person 86 94	mutation
+T2	Person 127 131	IDH1
+T3	Person 136 140	IDH2
+T4	Person 179 182	2HG
+T5	Person 190 205	DNA methylation
+T6	Person 217 232	differentiation
+T7	Person 300 304	TET2
+T8	Person 368 371	AML
+T9	Person 390 396	IDH1/2
+T10	Person 433 443	epigenetic
+T11	Person 477 493	hypermethylation
+T12	Person 864 871	myeloid
+T13	Person 1107 1115	promoter
+T14	Person 1219 1223	RNAi
+T15	Person 1249 1257	in vitro
+T16	Person 1274 1287	hematopoietic
+T17	Person 1319 1348	stem/progenitor proliferation
+T18	Person 1412 1417	shRNA

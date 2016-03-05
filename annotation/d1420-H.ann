@@ -1,0 +1,18 @@
+T1	Person 66 71	GATA2
+T2	Person 75 79	Kras
+T3	Person 87 114	non-small cells lung cancer
+T4	Person 116 121	NSCLC
+T5	Person 247 250	RNA
+T6	Person 253 258	siRNA
+T7	Person 307 311	A549
+T8	Person 295 300	NSCLC
+T9	Person 327 330	PC9
+T10	Person 350 355	H322M
+T11	Person 433 440	in vivo
+T12	Person 473 478	NF-κB
+T13	Person 497 501	IL-1
+T14	Person 511 514	Rho
+T15	Person 534 563	STAT5 transcriptional complex
+T16	Person 964 974	bortezomib
+T17	Person 997 1004	fasudil
+T18	Person 982 991	inhibitor

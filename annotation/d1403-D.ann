@@ -1,0 +1,24 @@
+T1	Person 28 38	Expression
+T2	Person 42 55	oncogenic ras
+T3	Person 102 120	cell growth arrest
+T4	Person 161 171	senescence
+T5	Person 232 258	mouse embryonic fibroblast
+T6	Person 261 264	MEF
+T7	Person 271 295	human primary fibroblast
+T8	Person 298 303	IMR90
+T9	Person 320 325	REF52
+T10	Person 352 360	H-rasV12
+T11	Person 378 390	retroviruses
+T12	Person 445 457	growth curve
+T13	Person 466 470	BrdU
+T14	Person 528 530	G1
+T15	Person 590 593	p53
+T16	Person 598 601	p16
+T17	Person 603 617	tumor suppress
+T18	Person 847 850	E1A
+T19	Person 1243 1261	mitogenic stimulus
+T20	Person 1291 1308	tumor suppression
+T21	Person 1537 1550	tumorigenesis
+T22	Person 988 1005	cell-cycle arrest
+T23	Person 76 82	rodent
+T24	Person 67 72	human

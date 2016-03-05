@@ -1,0 +1,15 @@
+T1	Person 55 72	cell cycle arrest
+T2	Person 83 93	DNA damage
+T3	Person 140 143	p53
+T4	Person 155 164	G1 arrest
+T5	Person 180 198	ionizing radiation
+T6	Person 200 202	IR
+T7	Person 229 248	independent pathway
+T8	Person 608 617	cyclin D1
+T9	Person 756 776	transcription of p53
+T10	Person 808 826	genotoxic exposure
+T11	Person 876 887	proteolysis
+T12	Person 959 975	RxxL destruction
+T13	Person 1115 1131	ubiquitin ligase
+T14	Person 1112 1114	E3
+T15	Person 1177 1200	cellular response to IR

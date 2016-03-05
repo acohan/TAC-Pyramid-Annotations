@@ -1,0 +1,19 @@
+T1	Person 36 41	miRNA
+T2	Person 99 112	proliferation
+T3	Person 117 130	tumorigenesis
+T4	Person 134 153	primary human cells
+T5	Person 232 259	testicular germ cell tumors
+T6	Person 280 291	p53 pathway
+T7	Person 405 419	carcinogenesis
+T8	Person 795 802	miR-372
+T9	Person 807 814	miR-373
+T10	Person 842 860	cell proliferation
+T11	Person 949 965	p53 inactivation
+T12	Person 1012 1021	miR-372&3
+T13	Person 1075 1088	tumorigenesis
+T14	Person 1115 1128	oncogenic RAS
+T15	Person 1150 1153	p53
+T16	Person 1164 1168	TGCT
+T17	Person 1410 1423	wild-type p53
+T18	Person 1435 1440	LATS2
+T19	Person 1513 1528	luciferase gene

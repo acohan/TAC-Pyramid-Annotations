@@ -1,0 +1,20 @@
+T1	Person 39 59	molecular mechanisms
+T2	Person 87 97	G proteins
+T3	Person 111 117	GTPase
+T4	Person 122 125	GEF
+T5	Person 128 163	Guanine nucleotide exchange factors
+T6	Person 169 172	GAP
+T7	Person 175 201	GTPase activating proteins
+T8	Person 288 296	catalyst
+T9	Person 311 334	nucleotide-binding site
+T10	Person 456 462	P loop
+T11	Person 552 561	magnesium
+T12	Person 623 647	phosphate-binding region
+T13	Person 656 675	base-binding region
+T14	Person 739 754	nucleotide-free
+T15	Person 768 784	nucleotide-bound
+T16	Person 847 850	Arf
+T17	Person 917 927	hydrolysis
+T18	Person 936 940	slow
+T19	Person 1108 1118	Ras-RasGAP
+T20	Person 1267 1279	glutamine 61

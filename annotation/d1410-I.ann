@@ -1,0 +1,25 @@
+T1	Person 35 40	miRNA
+T2	Person 79 93	downregulation
+T3	Person 98 110	upregulation
+T4	Person 114 129	cervical cancer
+T5	Person 134 156	pre-neoplastic lesions
+T6	Person 381 386	CaSki
+T7	Person 411 423	HPV-infected
+T8	Person 479 485	miR-24
+T9	Person 487 494	miR-27a
+T10	Person 500 507	mir-205
+T11	Person 541 560	clustering analysis
+T12	Person 647 654	miR-143
+T13	Person 659 666	miR-145
+T14	Person 693 697	HeLa
+T15	Person 758 766	miR-146a
+T16	Person 946 964	cell proliferation
+T17	Person 1006 1015	oncogenic
+T18	Person 1148 1155	miR-15b
+T19	Person 1157 1163	miR-16
+T20	Person 1176 1183	miR-155
+T21	Person 1260 1267	miR-126
+T22	Person 1288 1298	metastasis
+T23	Person 1399 1405	miR-21
+T24	Person 1459 1461	3’
+T25	Person 1517 1519	5’

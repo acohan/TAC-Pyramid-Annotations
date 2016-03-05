@@ -1,0 +1,24 @@
+T1	Person 68 71	Raf
+T2	Person 72 75	Mek
+T3	Person 76 79	Erk
+T6	Person 126 155	non-small cell lung carcinoma
+T7	Person 157 162	NSCLC
+T4	Person 165 170	K-RAS
+T5	Person 277 288	human tumor
+T8	Person 368 374	kinase
+T9	Person 399 405	MEK1/2
+T10	Person 411 417	ERK1/2
+T11	Person 492 497	mouse
+T12	Person 541 558	tumor development
+T13	Person 567 571	G12V
+T14	Person 610 618	mutation
+T15	Person 749 759	adenovirus
+T16	Person 812 816	Erk1
+T17	Person 821 825	Erk2
+T18	Person 110 118	oncogene
+T19	Person 964 973	lethality
+T20	Person 950 959	apoptosis
+T21	Person 977 987	adult mice
+T22	Person 1217 1222	B-Raf
+T23	Person 1294 1299	c-Raf
+T24	Person 1472 1496	therapeutic intervention

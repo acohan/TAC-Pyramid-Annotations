@@ -1,0 +1,12 @@
+T1	Person 133 149	tumor suppressor
+T2	Person 150 166	genes expression
+T3	Person 234 248	transformation
+T4	Person 270 287	malignant cancers
+T5	Person 515 530	cell physiology
+T6	Person 606 620	growth signals
+T7	Person 639 657	antigrowth signals
+T8	Person 670 679	apoptosis
+T9	Person 691 712	replicative potential
+T10	Person 714 736	sustained angiogenesis
+T11	Person 742 757	tissue invasion
+T12	Person 1049 1055	review

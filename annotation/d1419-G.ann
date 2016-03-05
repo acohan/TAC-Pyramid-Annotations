@@ -1,0 +1,16 @@
+T1	Person 45 70	gene expression profiling
+T2	Person 113 141	acute lymphoblastic leukemia
+T3	Person 143 146	ALL
+T4	Person 151 160	pediatric
+T5	Person 212 218	marrow
+T6	Person 232 259	oligonucleotide microarrays
+T7	Person 354 358	T-AL
+T8	Person 361 369	E2A-PBX1
+T9	Person 371 379	TEL-AML1
+T10	Person 385 406	hyperdiploid subtypes
+T11	Person 419 434	gene expression
+T12	Person 497 504	BCR-ABL
+T13	Person 506 509	MLL
+T14	Person 862 869	relapse
+T15	Person 870 874	drug
+T16	Person 885 892	failure

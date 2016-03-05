@@ -1,0 +1,22 @@
+T1	Person 72 90	ras transformation
+T2	Person 138 154	tumor suppressor
+T3	Person 156 159	p53
+T4	Person 164 167	p16
+T5	Person 179 185	rodent
+T6	Person 190 195	human
+T7	Person 206 225	Retrovirus-mediated
+T8	Person 278 286	H-rasV12
+T9	Person 343 348	IMR90
+T10	Person 353 357	WI38
+T11	Person 367 370	MEF
+T12	Person 382 387	REF52
+T13	Person 508 509	p
+T14	Person 489 499	expression
+T15	Person 569 579	senescence
+T16	Person 593 610	cell cycle growth
+T17	Person 712 735	ras-induced cell arrest
+T18	Person 784 805	markers of senescence
+T19	Person 900 912	inactivation
+T20	Person 976 993	tumorigenic state
+T21	Person 1027 1030	E1A
+T22	Person 1117 1140	ras-induced cell arrest

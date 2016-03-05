@@ -1,0 +1,14 @@
+T1	Person 42 55	tumorigenesis
+T2	Person 156 165	malignant
+T3	Person 315 329	growth signals
+T4	Person 348 365	growth-inhibitory
+T5	Person 367 377	antigrowth
+T6	Person 388 408	evasion of apoptosis
+T7	Person 420 441	replicative potential
+T8	Person 443 465	sustained angiogenesis
+T9	Person 471 486	tissue invasion
+T10	Person 491 501	metastasis
+T11	Person 924 943	genetic alterations
+T12	Person 1039 1048	oncogenes
+T13	Person 1147 1163	tumor suppressor
+T14	Person 1052 1065	tumorigenesis
