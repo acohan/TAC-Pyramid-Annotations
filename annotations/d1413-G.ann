@@ -1,0 +1,21 @@
+T1	104 110	IDH1/2
+T2	70 102	isocitrate dehydrogenase 1 and 2
+T3	116 152	alpha ketoglutarate-dependent enzyme
+T4	154 158	TET2
+T5	160 168	mutation
+T6	173 188	DNA methylation
+T7	192 214	acute myeloid leukemia
+T8	216 219	APL
+T9	226 241	differentiation
+T10	351 355	IDH1
+T11	360 364	IDH2
+T12	303 306	AML
+T13	489 544	HpaII tiny fragment enrichment by ligation mediated PCR
+T14	477 487	HELP assay
+T15	672 688	5-methylcytosine
+T16	839 855	hypermethylation
+T17	1031 1039	promoter
+T18	1182 1189	myeloid
+T19	1221 1250	stem/progenitor proliferation
+T20	1317 1322	shRNA
+T21	1712 1724	hematopoetic

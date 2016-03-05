@@ -1,0 +1,12 @@
+T1	133 149	tumor suppressor
+T2	150 166	genes expression
+T3	234 248	transformation
+T4	270 287	malignant cancers
+T5	515 530	cell physiology
+T6	606 620	growth signals
+T7	639 657	antigrowth signals
+T8	670 679	apoptosis
+T9	691 712	replicative potential
+T10	714 736	sustained angiogenesis
+T11	742 757	tissue invasion
+T12	1049 1055	review

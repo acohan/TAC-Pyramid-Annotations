@@ -1,0 +1,13 @@
+T1	55 72	cell cycle arrest
+T2	83 93	DNA damage
+T3	140 143	p53
+T4	155 164	G1 arrest
+T5	180 198	ionizing radiation
+T6	200 202	IR
+T7	608 617	cyclin D1
+T8	802 826	after genotoxic exposure
+T9	959 963	RxxL
+T10	1007 1018	proteolysis
+T11	1112 1114	E3
+T12	1115 1131	ubiquitin ligase
+T13	718 740	p53 mediated G1 arrest

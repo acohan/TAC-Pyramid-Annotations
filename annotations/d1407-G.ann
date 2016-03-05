@@ -1,0 +1,26 @@
+T1	46 51	LATS2
+T2	63 69	serine
+T3	70 79	threonine
+T4	80 86	kinase
+T5	93 108	phosphorylation
+T6	119 127	Aurora-A
+T7	128 134	kinase
+T8	157 167	centrosome
+T9	191 193	G2
+T10	239 248	metaphase
+T11	253 262	telophase
+T12	172 187	nuclear protein
+T13	322 332	cell cycle
+T14	373 380	M phase
+T15	389 399	G1/S phase
+T16	473 482	serine 83
+T17	755 759	G2/M
+T18	771 780	apoptosis
+T19	906 911	LATS1
+T20	919 922	S83
+T21	1004 1011	LATS1/2
+T22	1303 1306	p53
+T23	1131 1152	pCMVmyc-LATS2 plasmid
+T24	1101 1111	antibodies
+T25	1267 1275	Cyclin E
+T26	1205 1233	reduplication of centrosomes

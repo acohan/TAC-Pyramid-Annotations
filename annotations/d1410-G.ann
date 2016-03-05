@@ -1,0 +1,24 @@
+T1	98 103	miRNA
+T2	134 147	human tissues
+T3	108 123	cervical cancer
+T4	219 229	microarray
+T5	440 443	HPV
+T6	468 472	HeLa
+T7	771 779	miR-146a
+T8	789 807	cell proliferation
+T9	1174 1184	suppressor
+T10	1189 1197	oncogene
+T11	1284 1289	Caski
+T12	549 555	miR-21
+T13	557 563	miR-24
+T14	565 572	miR-27a
+T15	578 585	miR-205
+T16	631 638	MiR-126
+T17	640 647	miR-143
+T18	653 660	miR-145
+T19	684 691	miR-15b
+T20	693 699	miR-16
+T21	714 721	miR-155
+T22	1211 1224	downregulated
+T23	1566 1577	upregulated
+T24	1379 1395	internal control

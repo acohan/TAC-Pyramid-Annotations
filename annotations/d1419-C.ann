@@ -1,0 +1,14 @@
+T1	0 38	Pediatric acute lymphoblastic leukemia
+T2	96 104	leukemia
+T3	317 343	oligonucleotide microarray
+T4	549 554	T-ALL
+T5	591 598	BCR-ABL
+T6	600 608	E2A-PBX1
+T7	610 618	TEL-AML1
+T8	624 627	MLL
+T9	915 921	RT-PCR
+T10	1211 1228	computer assisted
+T11	1325 1328	96%
+T12	1661 1676	gene expression
+T13	1752 1765	pediatric ALL
+T14	776 799	hierarchical clustering

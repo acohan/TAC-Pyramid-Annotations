@@ -1,0 +1,16 @@
+T1	51 60	G1 arrest
+T2	76 86	DNA damage
+T3	96 114	ionizing radiation
+T4	116 118	IR
+T5	158 161	p53
+T6	196 205	cyclin D1
+T7	260 281	maintenance of arrest
+T8	372 399	downregulation of cyclin D1
+T9	493 518	immunoprecipitation assay
+T10	478 488	cell cycle
+T11	539 543	RxxL
+T12	575 596	cyclin D1 degradation
+T13	737 752	electroporation
+T14	635 661	anaphase promoting complex
+T15	663 666	APC
+T16	779 795	genotoxic stress

@@ -1,0 +1,23 @@
+T1	0 8	MicroRNA
+T2	11 16	miRNA
+T3	34 44	∼22 nt RNA
+T4	74 84	regulatory
+T5	94 106	base pairing
+T6	110 114	mRNA
+T7	160 169	nematodes
+T8	171 178	insects
+T9	183 189	plants
+T10	301 311	vertebrate
+T11	400 406	target
+T12	570 580	TargetScan
+T13	597 627	thermodynamics-based modelling
+T14	631 638	RNA-RNA
+T15	639 658	duplex interactions
+T16	895 897	5’
+T17	1038 1052	shuffled miRNA
+T18	1142 1147	human
+T19	1149 1154	mouse
+T20	1160 1163	rat
+T21	1216 1223	mammals
+T22	1201 1211	pufferfish
+T23	1228 1232	HeLa

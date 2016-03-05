@@ -1,0 +1,21 @@
+T1	109 131	tumor suppressor genes
+T2	31 47	RNA interference
+T3	49 53	RNAi
+T4	147 177	human mammary epithelial cells
+T5	179 187	TLM-HMEC
+T6	219 236	short-hairpin RNA
+T7	239 244	shRNA
+T8	281 309	anchorage-independent growth
+T9	497 512	forward genetic
+T10	545 578	suppress oncogenic transformation
+T11	582 586	HMEC
+T12	632 677	suppressors of epithelial cell transformation
+T13	679 683	SECT
+T14	859 863	REST
+T15	864 868	NRSF
+T16	911 928	tumor suppression
+T17	1076 1096	chromosomal deletion
+T18	1147 1159	colon cancer
+T19	1207 1232	phosphoinositide 3-kinase
+T20	1234 1238	PI3K
+T21	1337 1370	REST-shRNA-induced transformation

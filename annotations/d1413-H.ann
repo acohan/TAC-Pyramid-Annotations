@@ -1,0 +1,18 @@
+T1	86 94	mutation
+T2	127 131	IDH1
+T3	136 140	IDH2
+T4	179 182	2HG
+T5	190 205	DNA methylation
+T6	217 232	differentiation
+T7	300 304	TET2
+T8	368 371	AML
+T9	390 396	IDH1/2
+T10	433 443	epigenetic
+T11	477 493	hypermethylation
+T12	864 871	myeloid
+T13	1107 1115	promoter
+T14	1219 1223	RNAi
+T15	1249 1257	in vitro
+T16	1274 1287	hematopoietic
+T17	1319 1348	stem/progenitor proliferation
+T18	1412 1417	shRNA

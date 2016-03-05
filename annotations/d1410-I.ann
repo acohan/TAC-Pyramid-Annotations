@@ -1,0 +1,25 @@
+T1	35 40	miRNA
+T2	79 93	downregulation
+T3	98 110	upregulation
+T4	114 129	cervical cancer
+T5	134 156	pre-neoplastic lesions
+T6	381 386	CaSki
+T7	411 423	HPV-infected
+T8	479 485	miR-24
+T9	487 494	miR-27a
+T10	500 507	mir-205
+T11	541 560	clustering analysis
+T12	647 654	miR-143
+T13	659 666	miR-145
+T14	693 697	HeLa
+T15	758 766	miR-146a
+T16	946 964	cell proliferation
+T17	1006 1015	oncogenic
+T18	1148 1155	miR-15b
+T19	1157 1163	miR-16
+T20	1176 1183	miR-155
+T21	1260 1267	miR-126
+T22	1288 1298	metastasis
+T23	1399 1405	miR-21
+T24	1459 1461	3’
+T25	1517 1519	5’

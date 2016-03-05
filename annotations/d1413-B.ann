@@ -1,0 +1,23 @@
+T1	104 126	acute myeloid leukemia
+T2	128 131	AML
+T3	193 201	mutation
+T4	210 216	IDH1/2
+T5	426 430	R132
+T6	443 447	IDH1
+T7	460 464	IDH2
+T8	452 456	R172
+T9	503 519	hypermethylation
+T10	44 54	epigenetic
+T11	627 645	bone marrow cells.
+T12	646 650	TET2
+T13	745 753	promoter
+T14	478 481	DNA
+T15	482 493	methylation
+T16	1528 1541	hematopoietic
+T17	1542 1558	progenitor cells
+T18	1476 1491	differentiation
+T19	1468 1475	myeloid
+T20	1034 1052	2-hydroxyglutarate
+T21	1054 1057	2HG
+T22	1059 1069	production
+T23	1185 1201	5-methylcytosine

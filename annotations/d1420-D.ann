@@ -1,0 +1,24 @@
+T1	55 60	NSCLC
+T2	27 53	non-small cell lung cancer
+T3	77 88	RAS-pathway
+T4	139 144	GATA2
+T5	235 260	receptor tyrosine kinases
+T6	262 265	RTK
+T7	361 367	mutant
+T8	348 357	wild-type
+T9	395 399	RNAi
+T10	472 488	decrease in KRAS
+T11	576 588	KRAS-pathway
+T12	603 606	PC9
+T13	614 625	EGFR mutant
+T14	741 761	proteasome machinery
+T15	763 777	IL-1-signaling
+T16	783 796	Rho-signaling
+T17	845 850	TRAF6
+T18	872 880	ablation
+T19	854 859	mouse
+T20	1195 1198	Rho
+T21	1221 1232	therapeutic
+T22	1283 1293	bortezomib
+T23	1298 1305	fasudil
+T24	1252 1271	clinically approved

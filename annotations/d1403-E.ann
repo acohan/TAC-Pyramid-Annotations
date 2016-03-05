@@ -1,0 +1,22 @@
+T1	72 90	ras transformation
+T2	138 154	tumor suppressor
+T3	156 159	p53
+T4	164 167	p16
+T5	179 185	rodent
+T6	190 195	human
+T7	206 225	Retrovirus-mediated
+T8	278 286	H-rasV12
+T9	343 348	IMR90
+T10	353 357	WI38
+T11	367 370	MEF
+T12	382 387	REF52
+T13	508 509	p
+T14	489 499	expression
+T15	569 579	senescence
+T16	593 610	cell cycle growth
+T17	712 735	ras-induced cell arrest
+T18	784 805	markers of senescence
+T19	900 912	inactivation
+T20	976 993	tumorigenic state
+T21	1027 1030	E1A
+T22	1117 1140	ras-induced cell arrest

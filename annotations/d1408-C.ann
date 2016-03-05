@@ -1,0 +1,15 @@
+T1	0 8	MicroRNA
+T2	64 71	mammals
+T3	81 89	regulate
+T4	162 167	miRNA
+T5	186 197	vertebrates
+T6	284 290	target
+T7	450 460	TargetScan
+T8	544 552	modeling
+T9	556 564	identify
+T10	697 707	regulatory
+T11	747 749	5’
+T12	802 817	nucleotides 2-8
+T13	1030 1044	shuffled miRNA
+T14	1125 1129	HeLa
+T15	1130 1139	cell line

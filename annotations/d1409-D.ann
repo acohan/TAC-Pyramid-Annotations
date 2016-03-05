@@ -1,0 +1,24 @@
+T1	55 62	pathway
+T2	82 104	retinoblastoma protein
+T3	106 108	RB
+T4	117 120	p53
+T5	121 134	transcription
+T6	155 160	tumor
+T7	220 226	cancer
+T8	233 246	Tumorigenesis
+T9	348 358	cell cycle
+T10	411 420	apoptosis
+T11	443 446	E2F
+T12	447 460	transcription
+T13	493 496	DNA
+T14	497 508	replication
+T15	569 577	Mutation
+T16	628 633	human
+T17	787 799	INK4 protein
+T18	877 903	cyclin D-dependent kinases
+T19	921 936	phosphorylation
+T20	959 966	S phase
+T21	812 820	p16INK4A
+T22	1072 1081	cyclin D1
+T23	1085 1089	CDK4
+T24	1329 1332	Arf

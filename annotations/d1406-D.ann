@@ -1,0 +1,14 @@
+T1	42 55	tumorigenesis
+T2	156 165	malignant
+T3	315 329	growth signals
+T4	348 365	growth-inhibitory
+T5	367 377	antigrowth
+T6	388 408	evasion of apoptosis
+T7	420 441	replicative potential
+T8	443 465	sustained angiogenesis
+T9	471 486	tissue invasion
+T10	491 501	metastasis
+T11	924 943	genetic alterations
+T12	1039 1048	oncogenes
+T13	1147 1163	tumor suppressor
+T14	1052 1065	tumorigenesis

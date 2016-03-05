@@ -1,0 +1,18 @@
+T1	51 64	oncogenic ras
+T2	86 96	senescence
+T3	68 82	proto-oncogene
+T4	118 129	proliferate
+T5	260 269	G1 arrest
+T6	372 375	p53
+T7	380 383	p16
+T8	384 406	tumor suppressor genes
+T9	546 558	growth assay
+T10	561 580	cell cycle analysis
+T11	641 659	ras induced arrest
+T12	723 729	marker
+T13	808 811	MEF
+T14	779 805	mouse embryonic fibroblast
+T15	818 842	human primary fibroblast
+T16	845 850	IMR90
+T17	868 887	premature induction
+T18	920 937	tumor suppression

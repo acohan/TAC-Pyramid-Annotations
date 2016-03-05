@@ -1,0 +1,15 @@
+T1	119 128	mammalian
+T2	129 139	regulatory
+T3	140 146	target
+T4	156 161	miRNA
+T5	198 208	TargetScan
+T6	276 278	5′
+T7	508 523	nucleotides 2–8
+T8	580 590	vertebrate
+T9	604 629	7 nt segment of the miRNA
+T10	653 663	miRNA seed
+T11	784 813	thermodynamics-based modeling
+T12	821 841	RNA:RNA interactions
+T13	1259 1263	HeLa
+T14	1530 1540	target RNA
+T15	240 244	mRNA

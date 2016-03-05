@@ -1,0 +1,23 @@
+T1	26 35	micro RNA
+T2	38 43	miRNA
+T3	127 139	human cancer
+T4	279 294	cervical cancer
+T5	430 442	HPV-infected
+T6	558 572	down-regulated
+T7	618 630	up-regulated
+T8	580 587	miR-15b
+T9	589 595	miR-16
+T10	597 605	miR-146a
+T11	610 617	miR-155
+T12	518 525	miR-126
+T13	527 534	miR-143
+T14	536 543	miR-145
+T15	743 750	miR-146
+T16	1052 1061	oncogenic
+T17	1134 1139	CaSki
+T18	1125 1129	HeLa
+T19	1224 1240	internal control
+T20	1283 1287	CLIP
+T21	1363 1371	miR-133b
+T22	1618 1629	raft tissue
+T23	1635 1657	pre-neoplastic lesions

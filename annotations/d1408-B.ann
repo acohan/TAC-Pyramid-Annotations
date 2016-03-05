@@ -1,0 +1,21 @@
+T1	74 84	TargetScan
+T2	110 119	mammalian
+T3	120 128	microRNA
+T4	163 173	vertebrate
+T5	129 135	target
+T6	304 321	sequence analysis
+T7	282 298	RNA interactions
+T8	249 278	thermodynamics-based modeling
+T9	406 411	miRNA
+T10	490 494	UTRs
+T11	580 591	basepairing
+T12	599 601	3'
+T13	542 544	5'
+T14	911 916	3.5:1
+T15	1035 1043	GO terms
+T16	1060 1075	transcriptional
+T17	1076 1086	regulation
+T18	1188 1198	luciferase
+T19	1274 1281	mutated
+T20	777 793	authentic miRNAs
+T21	695 710	shuffled miRNAs
