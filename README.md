@@ -16,5 +16,11 @@ Main paper to be cited:
 > --  A. Cohan and N. Goharian "Revisiting Summarization Evaluation for Scientific Papers", In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), May 2016. 
 
 
+
+
+
+
+
+
 [1] www.nist.gov/tac/2014/BiomedSumm/
 
